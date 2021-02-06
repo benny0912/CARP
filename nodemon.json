@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PORT": 8626,
+        "NODE_ENV": "development",
+        "MONGO_ATLAS_PW": "tutordudes123",
+        "MONGO_ATLAS_DB": "CARP",
+        "JWT_KEY": "secret"
+    }
+}
